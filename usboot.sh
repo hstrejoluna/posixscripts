@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#ejecutar como superuser :V
 #butiador de usbs por WizardTrejoLuna :v
 
 INPUT=/tmp/menu.sh.$$
